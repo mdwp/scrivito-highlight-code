@@ -3,6 +3,8 @@
 
 A code hightlighting React component/Scrivito widget for the Scrivito CMS.
 
+![Screenshot](https://raw.githubusercontent.com/mdwp/scrivito-highlight-code/master/highlight-code-screenshot.png)
+
 ## Installation
 
 Open your terminal.
