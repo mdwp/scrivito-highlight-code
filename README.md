@@ -40,33 +40,8 @@ Or by including the styling to your style sheets (e.g. in `index.scss`):
 ## Features
 Code syntax hightlighting for more than 180 programming languages.
 
-## Development
+## Widget properties
 
-With `npm run build` you can build the package into `build/`.
-
-With `npm start` you'll start a continues process, that rebuilds `build/` automatically once the source code is changed.
-
-To add this library locally do the following in your scrivito app:
-
-```
-npm install file:<path to build folder>
-```
-
-e.g.
-
-```
-npm install file:../scrivito-highlight-code/build/
-```
-
-To publish the package:
-
-```
-npm i && npm run build && cd build/ && npm publish
-```
-
-## Check code quality
-
-With `npm run eslint` and `npm run es-check` you can check your coding quality.
-
-
-
+In the widget properties you can set:
+- Code
+- Which language is in use
